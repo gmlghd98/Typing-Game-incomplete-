@@ -1,1 +1,1 @@
-# Typing-Game-incomplete-
+# Typing-Game (incomplete)
